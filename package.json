@@ -1,0 +1,22 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "homework",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmchenry93/Bamazon-Assignment.git"
+  },
+  "author": "tianna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tmchenry93/Bamazon-Assignment/issues"
+  },
+  "homepage": "https://github.com/tmchenry93/Bamazon-Assignment#readme",
+  "dependencies": {
+    "inquirer": "^3.0.6"
+  }
+}
